@@ -1,0 +1,26 @@
+-----------------------------------------
+Dados do cotidiano:
+
+	Descrição dos produtos na etiqueta afixada na gôndola do supermercado
+	 	Tipo: string
+ 
+	Preço dos produtos na etiqueta afixada na gôndola do supermercado
+ 		Tipo: number
+ 
+	Somatório dos preços dos produtos que passaram pelo checkout  do supermercado
+		Tipo: number
+
+------------------------------------------
+Dados das operações bancárias:
+
+	Descrição do correntista da conta
+		 Tipo: string
+ 
+	Descrição da agência do correntista 
+ 		Tipo: number
+
+	Descrição do número da conta do correntista 
+		 Tipo: number
+
+	Descrição do saldo da conta
+		 Tipo: number
